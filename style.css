@@ -1,0 +1,14 @@
+.carousel {
+    width: 80%;
+    margin: auto;
+}
+
+.carousel-indicators {
+    width: 2000px;
+    height: 750px;
+}
+
+.carousel-indicators img {
+    width: 2000px;
+    height: 750px;
+}
